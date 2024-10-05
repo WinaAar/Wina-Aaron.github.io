@@ -8,7 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Average Salary Estimation of Data Science Positions]()
+[Average Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Salary%20Estimation.ipynb)
+[Report:](https://docs.google.com/document/d/1AzJtl69DBgxYOVozTtvntW-Ahq6_uWYKjkroDRwscDY/edit?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
