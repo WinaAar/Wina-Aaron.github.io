@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Predicting Academic Performance](/sample_page)
+[Predicting Academic Performance Based on Alcohol Consumption Patterns](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Salary Estimation of Data Science Positions](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
