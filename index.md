@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Predicting Academic Performance Based on Alcohol Consumption Patterns]([/sample_page](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Machine%20Learning%20Project%20%20(1).ipynb))
+[Predicting Academic Performance Based on Alcohol Consumption Patterns]([/sample_page](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.html))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
