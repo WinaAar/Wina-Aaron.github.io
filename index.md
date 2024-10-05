@@ -13,7 +13,9 @@
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_24_2.png" alt="Alt text" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_15_1.png" alt="Image 2" width="200"/> <br>
-    
+    [Project Report](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Predictive%20Modeling.md)
+  
+
 ---
 [Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
