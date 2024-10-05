@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Salary Estimation of Data Science Positions]([/pdf/sample_presentation.pdf](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md))
+[Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
