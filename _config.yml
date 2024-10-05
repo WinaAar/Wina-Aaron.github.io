@@ -1,11 +1,11 @@
 title: Wina Aaron # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am an undergraduate student at The University of Chicago pursing a Bachelors degree in Data Science with a minor in Statitsics. I am a dedicated and results-driven Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling. I have gained hands-on experience with a varitey of programming languages and tools such as Python, R, SQL, and GeoDa, allowing me to handle everything from data wrangling to data engineering. My work has included developing predictive models and conducting deep-dive analysis to solve real-world problems. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/wina-aaron-918b5127a">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
