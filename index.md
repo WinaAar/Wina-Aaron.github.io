@@ -8,6 +8,8 @@
 
 ![Alt text](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/output_18_0.png)
 
+![Alt text](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/output_19_0.png)
+
 ---
 [Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
