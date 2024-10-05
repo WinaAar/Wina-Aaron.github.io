@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Predicting Academic Performance Based on Alcohol Consumption Patterns]([/sample_page](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Machine%20Learning%20Project%20%20(1).ipynb))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Average Salary Estimation of Data Science Positions]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- []()
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
