@@ -683,7 +683,7 @@ plt.show()
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_7_0.png)
+![png](output_7_0.png)
     
 
 
@@ -736,7 +736,7 @@ plt.show()
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_10_0.png)
+![png](output_10_0.png)
     
 
 
@@ -962,7 +962,7 @@ plot_confusion_matrix(y_test_portuguese, rf_pred_portuguese_d, "Confusion Matrix
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_14_1.png)
+![png](output_14_1.png)
     
 
 
@@ -971,7 +971,7 @@ plot_confusion_matrix(y_test_portuguese, rf_pred_portuguese_d, "Confusion Matrix
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_14_3.png)
+![png](output_14_3.png)
     
 
 
@@ -1065,7 +1065,7 @@ plt.show()
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_18_0.png)
+![png](output_18_0.png)
     
 
 
@@ -1081,7 +1081,7 @@ plt.show()
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_19_0.png)
+![png](output_19_0.png)
     
 
 
@@ -1142,7 +1142,7 @@ ax.set_title('Affect of Weekly Alcohol Consumption on Final Math Grade')
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_21_2.png)
+![png](output_21_2.png)
     
 
 
@@ -1207,7 +1207,7 @@ ax.set_title('Affect of Weekly Alcohol Consumption on Final Portuguese Grade')
 
 
     
-![png](MachineLearningProject1_files/MachineLearningProject1_24_2.png)
+![png](output_24_2.png)
     
 
 
