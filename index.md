@@ -6,7 +6,8 @@
 
 [Predicting Academic Performance Based on Alcohol Consumption Patterns](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.md)
 
-![Alt text](https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_18_0.png) ![Alt text](https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_19_0.png)
+<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_18_0.png" alt="Alt text" style="width:300px; height:auto;"/>
+<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_19_0.png" alt="Alt text" style="width:300px; height:auto;"/>
 
 ---
 [Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
