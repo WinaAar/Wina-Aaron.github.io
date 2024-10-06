@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/student_grade.png" alt="Alt text" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/alch_cons.png" lt="Alt text" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/alch_cons.png" alt="Alt text" style="width:300px; height:auto;"/>
 </div>
 
   
@@ -22,7 +22,7 @@
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/ds.png" alt="Alt text" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/salary.png" lt="Alt text" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/salary.png" alt="Alt text" style="width:300px; height:auto;"/>
 </div>
     
 
