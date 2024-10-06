@@ -1,4 +1,4 @@
-## Portfolio
+## Technical Portfolio
 
 ---
 
@@ -6,7 +6,7 @@
 
 [Predicting Academic Performance Based on Alcohol Consumption Patterns](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.md)
 <br>
-[Project Report](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Predictive%20Modeling.md)
+[Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Predictive%20Modeling.md)
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_18_0.png" alt="Alt text" style="width:300px; height:auto;"/>
@@ -24,15 +24,17 @@
 
 ---
 [Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
+<br>
+[Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Avg%20Salary%20Estimation%20Project.md)
+
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_40_2.png" alt="Alt text" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_34_0.png" lt="Alt text" style="width:300px; height:auto;"/>
 </div>
 <br>
     
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;"/>
-</div>
+<img src="https://github.com/c-c/c-c.github.io/blob/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;" />
+
 
 ---
 [Project 3 Title](http://example.com/)
