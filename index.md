@@ -31,8 +31,7 @@
 <br>
     
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_10_0.png" alt="Alt text" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_15_1.png" alt="Alt text" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;"/>
 </div>
 
 ---
