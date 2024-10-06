@@ -33,7 +33,7 @@
 </div>
 <br>
     
-<img src="https://github.com/c-c/c-c.github.io/blob/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;" />
+<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;" />
 
 
 ---
