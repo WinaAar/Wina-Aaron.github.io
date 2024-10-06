@@ -21,12 +21,10 @@
 [Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Avg%20Salary%20Estimation%20Project.md)
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_40_2.png" alt="Alt text" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_34_0.png" lt="Alt text" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/ds.png" alt="Alt text" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/salary.png" lt="Alt text" style="width:300px; height:auto;"/>
 </div>
-<br>
     
-<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/output_36_0.png" alt="Alt text" style="width:300px; height:auto;" />
 
 
 ---
