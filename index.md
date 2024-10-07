@@ -30,7 +30,7 @@
 
 ### Quantitative Biology
 
-- [Amphibian Data Analysis](http://example.com/)
+- [Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
