@@ -12,6 +12,7 @@
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/student_grade.png" alt="Student Grade" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/alch_cons.png" alt="Alcohol Consumption" style="width:300px; height:auto;"/>
 </div>
+Skills Applied: Predictive Modeling, Python, Statistical Analysis
 
 ---
 
@@ -23,7 +24,7 @@
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/ds.png" alt="Data Science" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/salary.png" alt="Salary Estimation" style="width:300px; height:auto;"/>
 </div>
-
+Skills Applied: Predictive Modeling, Python, Statistical Analysis
     
 
 ---
@@ -31,6 +32,7 @@
 ### Quantitative Biology
 
 - [Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
+  
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
