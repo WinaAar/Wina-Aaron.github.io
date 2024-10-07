@@ -1,6 +1,4 @@
 title: Wina Aaron # your name (or website title) here
-decription: > Welcome!
-logo: "https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/IMG_3162.png"
  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am an undergraduate student at The University of Chicago pursuing a Bachelor's degree in Data Science with a minor in Statistics. I am a dedicated and results-driven Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling. 
@@ -8,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have gained hands-on experience with a variety of programming languages and tools such as Python, R, SQL, and GeoDa, allowing me to handle everything from data wrangling to data engineering. 
   <br>
   <a href="https://www.linkedin.com/in/wina-aaron-918b5127a">View My LinkedIn Profile</a> 
-  
+logo: "https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/IMG_3162.png"  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
