@@ -30,10 +30,9 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 ---
 
 ### Quantitative Biology
-
-- [Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
-  <img src=" https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/amph.png " alt="Data Science" style="width:300px; height:auto;"/>
- Skills Applied: Data Analysis, Data Cleaning, R, Statistical Analysis
+[Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
+<img src=" https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/amph.png " alt="Data Science" style="width:300px; height:auto;"/>
+Skills Applied: Data Analysis, Data Cleaning, R, Statistical Analysis
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
