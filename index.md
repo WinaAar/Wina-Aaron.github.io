@@ -38,7 +38,6 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/arrest.png" alt="Arrest" style="width:300px; height:auto;"/>
  </div>   
 Skills Applied: Data Analysis, Data Exploration
-<br>
 Tools: Altair, Seaborn, Geopandas, Matplotlib
 
 ---
