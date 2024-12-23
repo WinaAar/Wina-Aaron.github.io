@@ -39,6 +39,7 @@ Skills Applied: Data Analysis, Data Exploration
 
 <br>
 Tools: Altair, Seaborn, Geopandas, Matplotlib
+
 ---
 
 ### Quantitative Biology
