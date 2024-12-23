@@ -48,10 +48,6 @@ Tools: Altair, Seaborn, Geopandas, Matplotlib
 <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/amph.png" alt="Amph Data" style="width:300px; height:auto;"/>
 <br>
 Skills Applied: Data Analysis, Data Cleaning, R, Statistical Analysis
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
