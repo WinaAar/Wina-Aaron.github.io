@@ -31,6 +31,8 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 ### Data Visualization 
 [Indiana Arrest Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/IndianaArrestAnalysis.md) 
 <br>
+[Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Indiana_Arrest.md)
+<br>
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/indiana.png" alt="Indiana" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/arrest.png" alt="Arrest" style="width:300px; height:auto;"/>
