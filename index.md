@@ -28,6 +28,14 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
     
 
 ---
+### Data Visualization 
+[Indiana Arrest Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/IndianaArrestAnalysis.md) 
+<br>
+Skills Applied: Data Analysis, Data Exploration
+
+<br>
+Tools: Altair, Seaborn, Geopandas, Matplotlib
+---
 
 ### Quantitative Biology
 [Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
